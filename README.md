@@ -58,6 +58,8 @@ The GSL Engine is optimized for:
 *Available for professional collaboration, routing optimization consulting, and large-scale logistics modeling services.*
 
 **Service Platforms:**
-* **Upwork**https://www.upwork.com/freelancers/~0173b4a58a1a327fd6?mp_source=share
+* **Upwork** [click](https://www.upwork.com/freelancers/~0173b4a58a1a327fd6?mp_source=share)
+
+
 * **Fastwork**
 
