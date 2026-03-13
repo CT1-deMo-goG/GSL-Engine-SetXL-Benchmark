@@ -1,3 +1,4 @@
+[อ่านภาษาไทยคลิกที่นี่](README_TH.md)
 # GSL Engine
 ## Benchmark-Validated Deterministic Solver for Large-Scale CVRP
 **High-Performance Routing Optimization for Industrial Logistics**
