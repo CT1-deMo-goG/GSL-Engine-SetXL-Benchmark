@@ -53,7 +53,7 @@ The GSL Engine is optimized for:
 * **High Throughput:** Engineered for environments requiring rapid re-routing or real-time updates.
 
 ## Professional Contact
-**Independent Researcher: Chonmapoohm Thamsuwan (CTSuwan)** Email: ct.suwan@gmail.com  
+**Independent Researcher: Chonmapoohm Thamsuwan (CTSuwan)** Email: ctsuwan@proton.me 
 *Available for professional collaboration, routing optimization consulting, and large-scale logistics modeling services.*
 
 **Service Platforms:**
