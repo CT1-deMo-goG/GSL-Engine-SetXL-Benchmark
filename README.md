@@ -44,9 +44,28 @@ Evaluated on the complete Set XL benchmark (100 instances), representing the cur
 
 ---
 
+## GSL-Solver Platform
+
+**The Enterprise Route Optimization Portal**
+Access the production-ready deterministic engine here:  
+[**https://gsl-solver.com**](https://gsl-solver.com)
+
+---
+
 ## Professional Contact
+
 **Independent Researcher:** Chonmapoohm Thamsuwan (CTSuwan)  
 **Email:** [ctsuwan@proton.me](mailto:ctsuwan@proton.me)  
-**Platforms:** [Upwork Profile](https://www.upwork.com/freelancers/~0187428f64582f3473)
+
+---
+
+## Services & Collaboration
+
+Open to professional engagement in the following areas:
+
+- **Logistics-as-a-Service (LaaS):** Real-time route optimization for enterprise fleets.
+- **High-Precision Modeling:** Custom algorithmic solutions for complex supply chain constraints.
+- **Technical Consultancy:** Large-scale network stress-testing and optimization audits.
+
 
 
